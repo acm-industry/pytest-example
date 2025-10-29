@@ -5,3 +5,4 @@ __pycache__
 htmlcov
 .coverage
 test_answer.py
+test_bad.py
